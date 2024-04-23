@@ -15,3 +15,6 @@ num_primes = int(input("Жай сан: "))
 prime_gen = prime_generator()
 for _ in range(num_primes):
     print(next(prime_gen))
+
+
+print("12345678")
