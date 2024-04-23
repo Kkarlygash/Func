@@ -9,3 +9,5 @@ katu_nuktesi_ort = reduce(lambda x, y: x + y, katu_nuktesi) / len(katu_nuktesi)
 print("Фарангейт температурасы:", list(map(lambda c: c * 9/5 + 32, C_temp)))
 print("Қату нүктесінен төмен мәндер:", katu_nuktesi)
 print("Орташа мәні:", katu_nuktesi_ort)
+
+print("Bauyrzhan Aruzhan")
